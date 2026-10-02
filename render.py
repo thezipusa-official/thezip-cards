@@ -66,7 +66,7 @@ def build(card, i, d):
 <div style="position:absolute;top:50%;left:0;right:0;transform:translateY(-50%);text-align:center">
 <div style="font-size:96px;font-weight:800;letter-spacing:0.16em;margin-bottom:44px">THEZIP</div>
 <div style="font-size:36px;color:#B4B2A9;line-height:1.7">미국 시장을 한 장에 압축<br>월 K-뷰티 · 수 마케팅 · 금 팝업</div></div>
-<div style="position:absolute;bottom:72px;left:0;right:0;text-align:center;font-size:28px;color:#888780">@thezip</div></body></html>"""
+<div style="position:absolute;bottom:72px;left:0;right:0;text-align:center;font-size:28px;color:#888780">@thezipus</div></body></html>"""
     head = f'<div class=kick style="color:{d["ink"]}">{html.escape(card.get("kicker",""))}</div><div class=h>{rich(card["title"])}</div>'
     extra = ""
     if k == "stat":
