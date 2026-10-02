@@ -1,0 +1,11 @@
+{
+  "day": "MON",
+  "cards": [
+    {"type": "cover", "title": "미국 유통 없는\nK-뷰티 30곳이\n뉴욕에 모였어요", "sub": "신세계 HYPER GROUND 뉴욕 팝업"},
+    {"type": "text", "kicker": "WHAT", "title": "허드슨야드 1층,\n2,000sqft의 실험", "text": "신세계가 맨해튼 쇼핑몰 '더 샵스 앳 허드슨야드'에 K-뷰티 팝업 HYPER GROUND를 열었어요. 참여 브랜드는 30곳 이상인데, **대부분 아직 미국 매장 유통이 없는 브랜드**예요. 운영은 12월까지, 약 3개월이에요.", "source": "출처: Global Cosmetics News"},
+    {"type": "text", "kicker": "WHY", "title": "팝업이 아니라\n'입국 심사대'", "text": "신세계는 한국에서 될 만한 브랜드를 고르고, 미국 소비자 반응을 확인하고, 첫 판로까지 열어주는 구조로 이 공간을 쓰고 있어요. **팔기 위한 매장이라기보다 테스트하기 위한 매장**인 셈이죠.", "source": "출처: Global Cosmetics News, Time Out"},
+    {"type": "stat", "kicker": "DATA", "title": "K-뷰티를 사는\n미국 가구 비율", "stat": "29%", "stat_note": "19.7% → 23% → **29%**\n최근 3년 흐름", "text": "세포라, 얼타, 타깃도 K-뷰티 구색을 늘리는 중이에요. 이제는 **누가 먼저 미국 소비자 앞에 서느냐**의 싸움이에요.", "source": "출처: NielsenIQ (WWD 재인용)"},
+    {"type": "points", "kicker": "FOR BRANDS", "title": "우리 브랜드라면\n이렇게 보세요", "points": ["단독 진출 전에, 집합 팝업으로 **반응부터 확인**하기", "판매량보다 테스터 반응·재방문·문의를 **데이터로 남기기**", "팝업 이후 **아마존·틱톡샵으로 이어질 동선**을 미리 설계하기"]},
+    {"type": "outro"}
+  ]
+}
